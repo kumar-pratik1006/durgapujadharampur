@@ -1,0 +1,20 @@
+[
+  {
+    "id": "DPC-0001",
+    "name": "Sadanand Prasad",
+    "role": "sachiv",
+    "phone": "+91-98765-43210"
+  },
+  {
+    "id": "DPC-0002",
+    "name": "Anjani Kumar Sinha",
+    "role": "Adhyakx",
+    "phone": "+91-91234-56789"
+  },
+  {
+    "id": "DPC-0003",
+    "name": "Pappu Singh",
+    "role": "Member",
+    "phone": "+91-90123-45678"
+  }
+]
